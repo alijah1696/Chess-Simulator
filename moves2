@@ -1,0 +1,24 @@
+e2-e4
+# White's pawn moves from e2 to e4
+e7-e5
+# Black's pawn moves from e7 to e5
+g1-f3
+# White's knight moves from g1 to f3
+b8-c6
+# Black's knight moves from b8 to c6
+f1-c4
+# White's bishop moves from f1 to c4
+g8-f6
+# Black's knight moves from g8 to f6
+d2-d4
+# White's pawn moves from d2 to d4
+e5-d4
+# Black's pawn captures white's pawn on d4
+f3-d4
+# White's knight captures black's pawn on d4
+f8-c5
+# Black's bishop moves from f8 to c5
+c1-e3
+# White's bishop moves from c1 to e3
+d7-d6
+# Black's pawn moves from d7 to d6
